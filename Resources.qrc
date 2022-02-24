@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>favicon.ico</file>
+        <file>../../Downloads/Icons/Icons/Copy.bmp</file>
+        <file>../../Downloads/Icons/Icons/Cut.bmp</file>
+        <file>../../Downloads/Icons/Icons/DeleteSticky.bmp</file>
+        <file>../../Downloads/Icons/Icons/favicon.ico</file>
+        <file>../../Downloads/Icons/Icons/Highlight.bmp</file>
+        <file>../../Downloads/Icons/Icons/New.bmp</file>
+        <file>../../Downloads/Icons/Icons/Open.bmp</file>
+        <file>../../Downloads/Icons/Icons/Paste.bmp</file>
+        <file>../../Downloads/Icons/Icons/Save.bmp</file>
+        <file>../../Downloads/Icons/Icons/Sticky.bmp</file>
+        <file>../../Downloads/Icons/Icons/Turtle.png</file>
+    </qresource>
+</RCC>
